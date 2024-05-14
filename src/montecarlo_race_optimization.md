@@ -70,3 +70,13 @@ Esta atividade permite simular um campeonato de Fórmula 1, levando em conta div
 - **Pit Stops**: pit stops para troca de pneus ou reabastecimento.
 - **Falhas Mecânicas Aleatórias**: chance de falhas mecânicas baseadas na confiabilidade do carro.
 - **Penalidades**: penalidades para infrações de corrida como excesso de velocidade nos boxes ou saídas de pista.
+
+## Referências
+
+OpenAI. (2023). ChatGPT: Optimizing language models for dialogue. Recuperado de https://openai.com. Acesso em: 13 maio 2024.
+
+WIKIPEDIA. Formula One regulations. Disponível em: https://en.wikipedia.org/wiki/Formula_One_regulations. Acesso em: 13 maio 2024.
+
+FORMULA 1. Teams. Disponível em: https://www.formula1.com/en/teams. Acesso em: 12 maio 2024.
+
+FORMULA 1. Results: 2024 Team. Disponível em: https://www.formula1.com/en/results.html/2024/team.html. Acesso em: 11 maio 2024.
